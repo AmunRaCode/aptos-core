@@ -5,7 +5,7 @@
 This is an express.js based REST client that interacts with [Prisma](https://www.prisma.io/) as an ORM for querying
 the Aptos Postgres Indexer DB.
 
-## Getting started
+## Getting Started
 
 ### 1. [Complete the Local Development Guide for the Rust Indexer](../rust/README.md) (Highly Reccomended)
 This will make sure you have the following setup on your local:
