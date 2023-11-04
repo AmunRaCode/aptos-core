@@ -1,6 +1,6 @@
-# Typescript Indexer Interface
+# TypeScript Indexer Interface
 
-> A Typescript interface for querying the Aptos Postgres Indexer DB
+> A TypeScript interface for querying the Aptos Postgres Indexer DB
 
 This is an express.js based REST client that interacts with [Prisma](https://www.prisma.io/) as an ORM for querying
 the Aptos Postgres Indexer DB.
